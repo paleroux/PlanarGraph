@@ -1,0 +1,5 @@
+*.pyc
+VERSION.txt
+PlanarGraph.egg-info/
+build/
+dist/
